@@ -1,9 +1,9 @@
 TODO :
-	Sitemesh integration
 	Twitter bootstrap integration
 	Tag empty application
 	Some CRUD stuff
 	
 DONE :
 	Maven / Spring init	
+	Sitemesh integration
 	
