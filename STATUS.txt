@@ -1,9 +1,11 @@
 TODO :
-	Twitter bootstrap integration
+	Add mvc unit testing
 	Tag empty application
 	Some CRUD stuff
 	
 DONE :
 	Maven / Spring init	
 	Sitemesh integration
+	Twitter bootstrap integration
+	
 	
