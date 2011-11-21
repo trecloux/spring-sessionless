@@ -1,11 +1,13 @@
 TODO :
-	Add mvc unit testing
+	Some CRUD stuff with session
 	Tag empty application
-	Some CRUD stuff
-	
+	Do not use session
 DONE :
+	Add integration tests
 	Maven / Spring init	
 	Sitemesh integration
 	Twitter bootstrap integration
-	
+
+FAILED	
+	Add mvc unit testing -> Needs Spring 3.1 -> Delayed for 3.1 branch
 	
